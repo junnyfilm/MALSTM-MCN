@@ -1,5 +1,9 @@
 # MALSTM-MCN
 IEEE Conference Data Challenge 2022 2nd place winner 
+![image](https://github.com/junnyfilm/MALSTM-MCN/assets/109502364/e91533a6-34d7-4813-bb81-e580b4cf036a)
+
+![image](https://github.com/junnyfilm/MALSTM-MCN/assets/109502364/9c8d0b5d-9463-4a78-b860-c7386ab251eb)
+
 
 Data description
 <img width="1370" alt="스크린샷 2023-09-06 오후 3 35 00" src="https://github.com/junnyfilm/MALSTM-MCN/assets/109502364/ea136ed3-d3f6-43e2-b430-239ffeac3f23">
